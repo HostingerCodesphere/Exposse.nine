@@ -9,7 +9,7 @@ let allMusic = [
 
     img: "RewriteTheStars",
 
-    src: "RewriteTheStars"
+    src: "music-1"
 
   },
 
