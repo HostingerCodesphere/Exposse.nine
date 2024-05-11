@@ -7,7 +7,7 @@ let allMusic = [
 
     artist: "OURGRND",
 
-    img: "RewriteTheStars",
+    img: "music-1",
 
     src: "music-1"
 
