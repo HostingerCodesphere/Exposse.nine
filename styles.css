@@ -411,7 +411,8 @@ select {
   -webkit-transform: translateY(10px);
   -ms-transform: translateY(10px);
   transform: translateY(10px);
-  margin: 0 auto; 
+  margin: 0 auto; /* Ubah margin menjadi auto */
+  margin-left: 30px; /* Tambahkan margin kiri sesuai kebutuhan */
 }
 
 @media screen and (max-width: 1124px) {
@@ -498,4 +499,4 @@ select {
     font-size: 11px;
     padding: 8px 10px;
   }
-}
+  }
