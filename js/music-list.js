@@ -3,13 +3,13 @@ let allMusic = [
 
   {
 
-    name: "No Rival - NCS",
+    name: "Rewrite The Stars",
 
-    artist: "Egzod, Maestro Chives, Alaina Cross",
+    artist: "OURGRND",
 
-    img: "music-1",
+    img: "RewriteTheStars",
 
-    src: "music-1"
+    src: "RewriteTheStars"
 
   },
 
