@@ -15,9 +15,9 @@ let allMusic = [
 
   {
 
-    name: "Let me down Slowly",
+    name: "Sofia",
 
-    artist: "Alec Benjamin",
+    artist: "Clairo",
 
     img: "music-2",
 
