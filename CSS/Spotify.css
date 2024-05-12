@@ -116,7 +116,7 @@ body{
 
 .img-area{
 
-  width: 100%;
+  width: 200%;
 
   height: 200px;
 
@@ -484,8 +484,8 @@ ul li.playing{
 }
 
 .top-bar img {
-  width: 50px; /* Meningkatkan lebar foto */
-  height: 50px; /* Meningkatkan tinggi foto */
+  width: 40px; /* Meningkatkan lebar foto */
+  height: 40px; /* Meningkatkan tinggi foto */
   border-radius: 50%; 
   margin: 0 15px 0 -15px; /* Menyesuaikan margin agar foto tidak terpotong */
 }
