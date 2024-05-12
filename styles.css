@@ -411,8 +411,7 @@ select {
   -webkit-transform: translateY(10px);
   -ms-transform: translateY(10px);
   transform: translateY(10px);
-  margin: 0 auto; /* Ubah margin menjadi auto */
-  margin-left: 40px; /* Tambahkan margin kiri sesuai kebutuhan */
+  margin: 0 auto; 
 }
 
 @media screen and (max-width: 1124px) {
@@ -499,4 +498,48 @@ select {
     font-size: 11px;
     padding: 8px 10px;
   }
-  }
+}
+
+.container {
+  /* Tetapkan posisi relatif */
+  position: relative;
+}
+
+.container {
+  /* Tetapkan posisi relatif */
+  position: relative;
+}
+
+.footer {
+  /* Tetapkan posisi absolut */
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-left,
+.footer-right {
+  display: flex;
+  align-items: center;
+}
+
+.footer-logo {
+  margin-right: 20px; /* Sesuaikan jarak antara logo dan teks dengan kebutuhan */
+}
+
+.footer-logo img {
+  width: 50px; /* Sesuaikan ukuran logo sesuai kebutuhan */
+  height: 50px;
+}
+
+.footer-text-left p,
+.footer-text-right p {
+  text-align: left;
+  font-size: 12px; /* Sesuaikan ukuran teks sesuai kebutuhan */
+  margin: 10px; /* Sesuaikan jarak antar teks dengan kebutuhan */
+    }
