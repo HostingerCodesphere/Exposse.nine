@@ -2,177 +2,82 @@ xgallery_images = [
     {
       url: "images/Gallery-1.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-2.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-3.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-4.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-5.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-6.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-7.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-8.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-9.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-10.jpg",
       prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya",
-      tags: "IX-E"
+      date: "#Smpn2Tarumajaya"
     },
     {
     url: "images/Gallery-11.jpg",
     prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
+    date: "#Smpn2Tarumajaya"
 },
 {
     url: "images/Gallery-12.jpg",
     prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
+    date: "#Smpn2Tarumajaya"
 },
 {
     url: "images/Gallery-13.jpg",
     prompt: "Deskripsi",
     date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
 },
 {
     url: "images/Gallery-14.jpg",
     prompt: "Deskripsi",
     date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
 },
 {
     url: "images/Gallery-15.jpg",
     prompt: "Deskripsi",
     date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
 },
 {
     url: "images/Gallery-16.jpg",
     prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-xgallery_images = [
-    {
-      url: "images/Gallery-1.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-2.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-3.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-4.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-5.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-6.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-7.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-8.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-9.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-10.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-11.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-12.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-13.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-14.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-15.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
-    },
-    {
-      url: "images/Gallery-16.jpg",
-      prompt: "Deskripsi",
-      date: "#Smpn2Tarumajaya"
+    date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-17.jpg",
@@ -185,7 +90,7 @@ xgallery_images = [
       date: "#Smpn2Tarumajaya"
     },
     {
-      url: "images/Gallery-19.jpg",
+      url: "images/Gallery-29.jpg",
       prompt: "Deskripsi",
       date: "#Smpn2Tarumajaya"
     },
@@ -214,7 +119,7 @@ xgallery_images = [
         el.find(".xg-img-info").addClass("xg-img-info-open");
       }, 100);
       el.mouseleave(function(){
-        clearInterval(to);
+        clearInal(to);
         el.find(".xg-img-info").removeClass("xg-img-info-open");
       });
     });
