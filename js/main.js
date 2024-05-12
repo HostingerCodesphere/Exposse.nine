@@ -1,54 +1,34 @@
 xgallery_images = [
     {
-      url: "https://assets.codepen.io/1692350/61.png",
-      prompt: "abstract 3d render, rococo, octane render, detailed, black and gold",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-1.jpg",
+      prompt: "Upacara."
     },{
-      url: "https://assets.codepen.io/1692350/62.png",
-      prompt: "abstract 3d render, rococo, octane render, detailed, black and gold",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-2.jpg",
+      prompt: "Upacara"
     },{
-      url: "https://assets.codepen.io/1692350/60.png",
-      prompt: "abstract 3d crystals render, octane render",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-3.jpg",
+      prompt: "happy teachers' day"
     },{
-      url: "https://assets.codepen.io/1692350/59.png",
-      prompt: "abstract 3d crystals render, octane render",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-4.jpg",
+      prompt: "happy teachers' day"
     },{
-      url: "https://assets.codepen.io/1692350/58.png",
-      prompt: "abstract 3d city, octane render, rococo + , abstract + , detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "scenery"
+      url: "images/Gallery-5.jpg",
+      prompt: "Paskibra"
     },{
-      url: "https://assets.codepen.io/1692350/57.png",
-      prompt: "abstract 3d human face, octane render, rococo + , detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-6.jpg",
+      prompt: "Random"
     },{
-      url: "https://assets.codepen.io/1692350/56.png",
-      prompt: "abstract 3d human face, octane render, rococo + , detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-7.jpg",
+      prompt: "Sahabat Selamanya"
     },{
-      url: "https://assets.codepen.io/1692350/55.png",
-      prompt: "abstract 3d statue, octane render, detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-8.jpg",
+      prompt: "Miroh ( Pembaca Yasin )"
     },{
-      url: "https://assets.codepen.io/1692350/54.png",
-      prompt: "abstract 3d statue, octane render, detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-9.jpg",
+      prompt: "Miroh ( Pembaca Pidato )"
     },{
-      url: "https://assets.codepen.io/1692350/53.png",
-      prompt: "abstract 3d statue, octane render, detailed, black with gold details",
-      date: "17.11.2022",
-      tags: "abstract"
+      url: "images/Gallery-10.jpg",
+      prompt: "After Ujian Praktek Seni Budaya "
     },{
       url: "https://assets.codepen.io/1692350/47.png",
       prompt: "splash art, neo noir, cyberpunk girl character portrait, standing in city center, detailed, monochrome with red details",
