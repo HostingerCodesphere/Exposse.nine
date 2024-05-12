@@ -50,34 +50,34 @@ xgallery_images = [
       date: "#Smpn2Tarumajaya"
     },
     {
-    url: "images/Gallery-11.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya"
-},
-{
-    url: "images/Gallery-12.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya"
-},
-{
-    url: "images/Gallery-13.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-},
-{
-    url: "images/Gallery-14.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-},
-{
-    url: "images/Gallery-15.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-},
-{
-    url: "images/Gallery-16.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya"
+      url: "images/Gallery-11.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-12.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-13.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-14.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-15.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-16.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
     },
     {
       url: "images/Gallery-17.jpg",
@@ -90,7 +90,7 @@ xgallery_images = [
       date: "#Smpn2Tarumajaya"
     },
     {
-      url: "images/Gallery-29.jpg",
+      url: "images/Gallery-19.jpg",
       prompt: "Deskripsi",
       date: "#Smpn2Tarumajaya"
     },
