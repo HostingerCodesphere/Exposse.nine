@@ -104,6 +104,7 @@ xgallery_images = [
   
   
   $(document).ready(function(){
+$(document).ready(function(){
     // SHUFFLE THE GALLERY
     shuffle(xgallery_images);
   
@@ -119,7 +120,7 @@ xgallery_images = [
         el.find(".xg-img-info").addClass("xg-img-info-open");
       }, 100);
       el.mouseleave(function(){
-        clearInal(to);
+        clearInterval(to);
         el.find(".xg-img-info").removeClass("xg-img-info-open");
       });
     });
@@ -141,8 +142,8 @@ xgallery_images = [
       }else{
         $(".xg-img-wrap").fadeIn(100);
         $(".xg-img-wrap").each(function(i, el){
-          if(!$(el).data("tags").includes(tagFilter))
-            $(el).fadeOut(100);
+          // if(!$(el).data("tags").includes(tagFilter))
+          //   $(el).fadeOut(100);
         });
       }
       $(".xg-loader").delay(500).fadeOut(100);
@@ -202,9 +203,6 @@ xgallery_images = [
   <div class="xgp-details">\
   <div class="xgp-prompt">'+xgi.prompt+'</div>\
   <div class="xgp-date">'+xgi.date+'</div>\
-  <div class="xgp-tags">\
-  <div class="xgp-tag">'+xgi.tags+'</div>\
-  </div>\
   </div>';
   
     return xg_img;
@@ -212,7 +210,7 @@ xgallery_images = [
   
   function createXGImage(xgi, i){
     var xg_img =
-        '<div class="xg-img-wrap" data-tags="'+xgi.tags+'" data-index="'+i+'">\
+        '<div class="xg-img-wrap" data-index="'+i+'">\
   <div class="xg-img-info">\
   <div class="xg-img-info-inner">\
   <div class="xg-img-prompt">'+xgi.prompt+'</div>\
@@ -237,4 +235,4 @@ xgallery_images = [
     }
   
     return arr;
-  }
+        }
