@@ -328,20 +328,6 @@ top: 18px;
   font-size: 18px;
 }
 
-.xgp-tags{
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-  font-size: 18px;
-  user-select: none;
-}
-
-.xgp-tag{
-  background: var(--c2);
-  padding: 8px 14px;
-  border-radius: 100px;
-}
-
 @media(max-width: 981px){
   .xgp-wrap{
     flex-direction: column;
