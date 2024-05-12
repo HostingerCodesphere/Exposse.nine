@@ -15,7 +15,7 @@
   <div class="navigation-button"> <span class="dot active" onclick="changeSlide(0)"></span> <span class="dot" onclick="changeSlide(1)"></span> <span class="dot" onclick="changeSlide(2)"></span> 
   </div> 
   <div class="music-player"> 
-   <audio controls autoplay> 
+   <audio id="myAudio" controls> 
     <source src="songs/SampaiJumpa.mp3" type="audio/mpeg"> Browser Anda tidak mendukung tag audio. 
    </audio> 
   </div> 
@@ -62,6 +62,23 @@
     function calculateDays(today, eventDate) {
       const difference = eventDate.getTime() - today.getTime();
       return Math.ceil(difference / (1000 * 3600 * 24)); // Konversi ke hari
+    }
+
+    // Autoplay music
+    var myAudio = document.getElementById("myAudio");
+    var isMusicPlaying = localStorage.getItem("isMusicPlaying");
+    if (isMusicPlaying === "true") {
+      myAudio.autoplay = true;
+    } else {
+      myAudio.autoplay = false;
+    }
+
+    myAudio.onplay = function() {
+      localStorage.setItem("isMusicPlaying", "true");
+    }
+
+    myAudio.onpause = function() {
+      localStorage.setItem("isMusicPlaying", "false");
     }
   </script> 
  <script src="js/main.js"></script>
