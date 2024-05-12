@@ -1,67 +1,124 @@
 xgallery_images = [
     {
       url: "images/Gallery-1.jpg",
-      prompt: "Deskripsi ",
+      prompt: "Deskripsi",
       date: "#Smpn2Tarumajaya",
       tags: "IX-E"
-    },{
+    },
+    {
       url: "images/Gallery-2.jpg",
-      prompt: "Upacara"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-3.jpg",
-      prompt: "happy teachers' day"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-4.jpg",
-      prompt: "happy teachers' day"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-5.jpg",
-      prompt: "Paskibra"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-6.jpg",
-      prompt: "Random"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-7.jpg",
-      prompt: "Sahabat Selamanya"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-8.jpg",
-      prompt: "Miroh ( Pembaca Yasin )"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-9.jpg",
-      prompt: "Miroh ( Pembaca Pidato )"
-    },{
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
       url: "images/Gallery-10.jpg",
-      prompt: "After Ujian Praktek Seni Budaya "
-    },{
-      url: "images/Gallery-11.jpg",
-      prompt: "Ujian Praktek Ipa"
-    },{
-      url: "images/Gallery-12.jpg",
-      prompt: "Ujian Praktek Ipa"
-    },{
-      url: "images/Gallery-13.jpg",
-      prompt: "Ujian Praktek Ipa"
-    },{
-      url: "images/Gallery-14.jpg",
-      prompt: "Ujian Praktek Ipa"
-    },{
-      url: "images/Gallery-15.jpg",
-      prompt: "Ujian Praktek Ipa"
-    },{
-      url: "images/Gallery-16.jpg",
-      promt: ""
-    },{
-      url: "images/Gallery-17.jpg",
-      prompt: ""
-    },{
-      url: "images/Gallery-18.jpg",
-      prompt: ""
-    },{
-      url: "images/Gallery-19.jpg",
-      prompt: ""
-    },{
-      url: "images/Gallery-20.jpg",
-      prompt: ""
-    }
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
+    },
+    {
+    url: "images/Gallery-11.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-12.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-13.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-14.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-15.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-16.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-17.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-18.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-19.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+},
+{
+    url: "images/Gallery-20.jpg",
+    prompt: "Deskripsi",
+    date: "#Smpn2Tarumajaya",
+    tags: "IX-E"
+}
   ];
   
   
