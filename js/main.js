@@ -93,33 +93,108 @@ xgallery_images = [
     url: "images/Gallery-16.jpg",
     prompt: "Deskripsi",
     date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
-},
-{
-    url: "images/Gallery-17.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
-},
-{
-    url: "images/Gallery-18.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
-},
-{
-    url: "images/Gallery-19.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
-},
-{
-    url: "images/Gallery-20.jpg",
-    prompt: "Deskripsi",
-    date: "#Smpn2Tarumajaya",
-    tags: "IX-E"
-}
-  ];
+xgallery_images = [
+    {
+      url: "images/Gallery-1.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-2.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-3.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-4.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-5.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-6.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-7.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-8.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-9.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-10.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-11.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-12.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-13.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-14.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-15.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-16.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-17.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-18.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-19.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-20.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    }
+];
   
   
   $(document).ready(function(){
