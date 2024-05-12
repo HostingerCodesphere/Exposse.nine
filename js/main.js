@@ -91,7 +91,7 @@ xgallery_images = [
     },
     {
       url: "images/Gallery-19.jpg",
-      prompt: "Deskripsi",
+      prompt: "Deskripsii",
       date: "#Smpn2Tarumajaya"
     },
     {
