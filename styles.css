@@ -505,41 +505,13 @@ select {
   position: relative;
 }
 
-.container {
-  /* Tetapkan posisi relatif */
-  position: relative;
-}
-
 .footer {
   /* Tetapkan posisi absolut */
   position: absolute;
   bottom: 0;
   width: 100%;
   text-align: center;
+  background-color: #000;
   color: #fff;
-  padding: 5px;
-  display: flex;
-  justify-content: space-between;
+  padding: 20px 0;
 }
-
-.footer-left,
-.footer-right {
-  display: flex;
-  align-items: center;
-}
-
-.footer-logo {
-  margin-right: 20px; /* Sesuaikan jarak antara logo dan teks dengan kebutuhan */
-}
-
-.footer-logo img {
-  width: 50px; /* Sesuaikan ukuran logo sesuai kebutuhan */
-  height: 50px;
-}
-
-.footer-text-left p,
-.footer-text-right p {
-  text-align: left;
-  font-size: 12px; /* Sesuaikan ukuran teks sesuai kebutuhan */
-  margin: 10px; /* Sesuaikan jarak antar teks dengan kebutuhan */
-  }
