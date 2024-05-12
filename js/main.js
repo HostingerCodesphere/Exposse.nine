@@ -1,8 +1,9 @@
 xgallery_images = [
     {
       url: "images/Gallery-1.jpg",
-      date: "Upacara",
-      tags: "SMPN2TARUMAJAYA"
+      prompt: "Deskripsi ",
+      date: "#Smpn2Tarumajaya",
+      tags: "IX-E"
     },{
       url: "images/Gallery-2.jpg",
       prompt: "Upacara"
