@@ -10,7 +10,7 @@ body {
 
 .card {
   width: 280px; /* Lebar kartu */
-  height: 350px; /* Tinggi kartu */
+  height: 320px; /* Tinggi kartu */
   border-width: 1px;
   border-color: rgba(219, 234, 254, 1);
   border-radius: 0.5rem; /* Menghilangkan sudut melengkung */
@@ -21,10 +21,6 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-
-p {
-    text-align: center;
 }
 
 .header {
