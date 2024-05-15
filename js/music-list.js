@@ -3,6 +3,18 @@ let allMusic = [
 
   {
 
+    name: "Beautiful in white",
+
+    artist: "shane filan",
+
+    img: "music-0",
+
+    src: "music-0"
+
+  },
+  
+  {
+
     name: "Old Love",
 
     artist: "yuji,putri dahlia",
