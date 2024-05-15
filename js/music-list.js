@@ -120,6 +120,54 @@ let allMusic = [
     src: "music-10"
 
 },
+  
+  {
+
+    name: "Raspodi",
+
+    artist: "JKT48",
+
+    img: "music-11",
+
+    src: "music-11"
+
+  },
+
+  {
+
+    name: "Masih Hatiku",
+
+    artist: "Arsy Widianto,Tiara Andini",
+
+    img: "music-12",
+
+    src: "music-12"
+
+  },
+
+  {
+
+    name: "Jurus Rahasia Teleport",
+
+    artist: "JKT48",
+
+    img: "music-13",
+
+    src: "music-13"
+
+  },
+
+  {
+
+    name: "Semoga",
+
+    artist: "Maliq & D'Essentials",
+
+    img: "music-14",
+
+    src: "music-14"
+
+  },
 
   {
 
