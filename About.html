@@ -42,7 +42,7 @@ function checkInstagram() {
     var hasInstagram = false; 
 
     if (!hasInstagram) {
-        alert("Tidak Memiliki Instagram");
+        alert("Maaf, Pengguna Tidak Memiliki Akun Instagram.");
     } else {
         window.location.href = "#"; 
     }
@@ -326,8 +326,20 @@ function checkInstagram() {
       <h3 class="name">Muhammad Dzarel Alghifari</h3>
       <h3 class="title">Anggota Kelas</h3>
     </div>
-    <!-- Link Follow -->
-    <a href="https://example.com/profile" class="follow-link">Follow</a>
+<a href="javascript:void(0);" class="follow-link" onclick="checkInstagram()">Follow</a>
+
+<script>
+function checkInstagram() {
+    // Lakukan pengecekan apakah pengguna memiliki akun Instagram
+    var hasInstagram = false; 
+
+    if (!hasInstagram) {
+        alert("Maaf, Pengguna Tidak Memiliki Akun Instagram.");
+    } else {
+        window.location.href = "https://instagram.com/_4lghifari_"; 
+    }
+}
+</script>
   </div>
 </div>
 <!-- Absen 22 -->
