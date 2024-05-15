@@ -119,6 +119,18 @@ let allMusic = [
 
     src: "music-10"
 
-}
+},
+
+  {
+
+    name: "Semua Aku Dirayakan",
+
+    artist: "Nadin Amizah",
+
+    img: "music-15",
+
+    src: "music-15"
+
+  }
 
 ];
