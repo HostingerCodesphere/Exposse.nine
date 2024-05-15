@@ -3,9 +3,9 @@ let allMusic = [
 
   {
 
-    name: "Rewrite The Stars",
+    name: "Old Love",
 
-    artist: "OURGRND",
+    artist: "yuji,putri dahlia",
 
     img: "music-1",
 
@@ -15,9 +15,9 @@ let allMusic = [
 
   {
 
-    name: "Sofia",
+    name: "Eyes Blue X Terpikat Senyummu",
 
-    artist: "Clairo",
+    artist: "Stromxx",
 
     img: "music-2",
 
@@ -27,9 +27,9 @@ let allMusic = [
 
   {
 
-    name: "Besabriyaan",
+    name: "Losing Us",
 
-    artist: "Armaan Malik, Amaal Mallik",
+    artist: "Raissa Anggiani",
 
     img: "music-3",
 
@@ -39,14 +39,86 @@ let allMusic = [
 
   {
 
-    name: "Your Eyes",
+    name: "Locked out of Heaven",
 
-    artist: "Neovaii",
+    artist: "Bruno Mars",
 
     img: "music-4",
 
     src: "music-4"
 
+  },
+
+  {
+
+    name: "Love Story",
+
+    artist: "Taylor Swift",
+
+    img: "music-5",
+
+    src: "music-5"
+
+  },
+
+  {
+
+    name: "Menemukanmu",
+
+    artist: "Seventeen",
+
+    img: "music-6",
+
+    src: "music-6"
+
+  },
+
+  {
+
+    name: "Rewrite The Stars",
+
+    artist: "James Arthur,Anne-Marry",
+
+    img: "music-7",
+
+    src: "music-7"
+
+  },
+
+  {
+
+    name: "Jodoh Pasti Bertemu",
+
+    artist: "Afgan",
+
+    img: "music-8",
+
+    src: "music-8"
+
+  },
+
+  {
+
+    name: "Perahu Kertas",
+
+    artist: "Maudy Ayunda",
+
+    img: "music-9",
+
+    src: "music-9"
+
   }
+
+  {
+
+    name: "Saturn",
+
+    artist: "SZA",
+
+    img: "music-10",
+
+    src: "music-10"
+
+}
 
 ];
