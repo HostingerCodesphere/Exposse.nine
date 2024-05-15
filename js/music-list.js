@@ -107,7 +107,7 @@ let allMusic = [
 
     src: "music-9"
 
-  }
+  },
 
   {
 
