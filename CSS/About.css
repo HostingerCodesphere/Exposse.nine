@@ -124,10 +124,18 @@ body {
 
 /* deskripsi*/
 .deskripsi {
-  color: white;
-  text-align: center;
+  color: black;
+  text-align: justify;
   margin-top: 310px;
-  font-size: 20px;
+  font-size: 14px;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background: #dcdcdc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  height: 140px; /* Mengatur tinggi menjadi lebih kecil */
 }
 
 .judul {
