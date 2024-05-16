@@ -191,6 +191,66 @@ let allMusic = [
 
     src: "music-15"
 
+  },
+
+  {
+
+    name: "All I Want",
+
+    artist: "Olivia Rodrigo,Disney",
+
+    img: "music-16",
+
+    src: "music-16"
+
+  },
+
+  {
+
+    name: "Bertaut",
+
+    artist: "Nadin Amizah",
+
+    img: "music-17",
+
+    src: "music-17"
+
+  },
+
+  {
+
+    name: "Dandelions",
+
+    artist: "Ruth b.",
+
+    img: "music-18",
+
+    src: "music-18"
+
+  },
+
+  {
+
+    name: "Akulah Dia",
+
+    artist: "Drive",
+
+    img: "music-19",
+
+    src: "music-19"
+
+  },
+
+  {
+
+    name: "Mesra'annya Kecil'lan Dulu",
+
+    artist: "Nadin Amizah",
+
+    img: "music-20",
+
+    src: "music-20"
+
   }
 
 ];
