@@ -251,6 +251,42 @@ let allMusic = [
 
     src: "music-20"
 
+  },
+
+  {
+
+    name: "Cinta Jangan Sembunyi",
+
+    artist: "Seventeen",
+
+    img: "music-21",
+
+    src: "music-21"
+
+  },
+
+  {
+
+    name: "Separuhku",
+
+    artist: "Noah",
+
+    img: "music-22",
+
+    src: "music-22"
+
+  },
+
+  {
+
+    name: "Kangen",
+
+    artist: "Dewa 19",
+
+    img: "music-23",
+
+    src: "music-23"
+
   }
 
 ];
