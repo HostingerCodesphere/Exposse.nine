@@ -287,6 +287,138 @@ let allMusic = [
 
     src: "music-23"
 
-  }
+  },
+
+  {
+
+    name: "don't faze me",
+
+    artist: "axaero",
+
+    img: "music-24",
+
+    src: "music-24"
+
+  },
+
+  {
+
+    name: "Kembali Pulang",
+
+    artist: "Feby Putri",
+
+    img: "music-25",
+
+    src: "music-25"
+
+  },
+
+  {
+
+    name: "DITINGGAL BANG DIKA",
+
+    artist: "Dika",
+
+    img: "music-26",
+
+    src: "music-26"
+
+  },
+
+  {
+
+    name: "Aku,Kamu Dan Samudra",
+
+    artist: "Rebellion Rose",
+
+    img: "music-27",
+
+    src: "music-27"
+
+      },
+
+  {
+
+    name: "deja vu",
+
+    artist: "Olivia Rodrigo",
+
+    img: "music-28-29",
+
+    src: "music-28"
+
+  },
+
+  {
+
+    name: "happier",
+
+    artist: "Olivia Rodrigo",
+
+    img: "music-28-29",
+
+    src: "music-29"
+
+  },
+
+  {
+
+    name: "SNAP",
+
+    artist: "Rosa Linn",
+
+    img: "music-30",
+
+    src: "music-30"
+
+  },
+
+  {
+
+    name: "cardigan",
+
+    artist: "Taylor Swift",
+
+    img: "music-31",
+
+    src: "music-31"
+
+  },
+
+    {
+
+    name: "Sempurna",
+
+    artist: "Andra & The Backbone",
+
+    img: "music-32",
+
+    src: "music-32"
+
+    },
+
+  {
+
+    name: "Those Eyes",
+
+    artist: "New West",
+
+    img: "music-33",
+
+    src: "music-33"
+
+  },
+
+  {
+
+    name: "Lonely",
+
+    artist: "Akon",
+
+    img: "music-34",
+
+    src: "music-34"
+
+}
 
 ];
