@@ -50,10 +50,10 @@
     if (n !== undefined) {
       currentImg = n;
     } else {
-      currentImg = (currentImg + 1) % imgs.length;
+      currentImg = (currentImg + 2) % imgs.length;
     }
 
-    imgs[currentImg].style.opacity = 1;
+    imgs[currentImg].style.opacity = 2;
     dots[currentImg].classList.add('active');
 
     timer = setInterval(changeSlide, interval); // Mulai interval kembali setelah perubahan gambar
