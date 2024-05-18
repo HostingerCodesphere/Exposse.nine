@@ -8,7 +8,7 @@
  </head> 
  <body> 
   <div class="slider"> 
-   <img id="img-1" src="images/header-1.jpg" alt="Image 1"> 
+   <img id="img-1" src="images/header-1.jpg" alt="See You Semua"> 
    <img id="img-2" src="https://raw.githubusercontent.com/DzarelDeveloper/Img/main/YTCODESPHERE.jpg" alt="Image 2"> 
    <img id="img-3" src="https://images.bannerbear.com/direct/EjJywNMlJm5zmerB8a/requests/000/033/000/213/0Mn5r3E1XY0gmWDZQWPoD9kg7/9e42168a169264bb575a5ec10acd1c8942967845.jpg" alt="Image 3"> 
   </div> 
@@ -32,55 +32,62 @@
   </div> 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script> 
   <script>
-    var currentImg = 0;
-    var imgs = document.querySelectorAll('.slider img');
-    var dots = document.querySelectorAll('.dot');
-    var interval = 5000;
-    var timer;
+  var currentImg = 2; // Atur default ke gambar kedua (indeks 1)
+  var imgs = document.querySelectorAll('.slider img');
+  var dots = document.querySelectorAll('.dot');
+  var interval = 5000;
+  var timer;
 
-    timer = setInterval(changeSlide, interval);
+  timer = setInterval(changeSlide, interval);
 
-    function changeSlide(n) {
-      for (var i = 0; i < imgs.length; i++) {
-        imgs[i].style.opacity = 0;
-        dots[i].classList.remove('active');
-      }
-
-      if (n !== undefined) {
-        clearInterval(timer);
-        currentImg = n;
-      } else {
-        currentImg = (currentImg + 1) % imgs.length;
-      }
-
-      imgs[currentImg].style.opacity = 1;
-      dots[currentImg].classList.add('active');
-
-      timer = setInterval(changeSlide, interval);
+  function changeSlide(n) {
+    clearInterval(timer); // Hentikan interval saat ada interaksi pengguna
+    for (var i = 0; i < imgs.length; i++) {
+      imgs[i].style.opacity = 0;
+      dots[i].classList.remove('active');
     }
 
-    function calculateDays(today, eventDate) {
-      const difference = eventDate.getTime() - today.getTime();
-      return Math.ceil(difference / (1000 * 3600 * 24)); // Konversi ke hari
-    }
-
-    // Autoplay music
-    var myAudio = document.getElementById("myAudio");
-    var isMusicPlaying = localStorage.getItem("isMusicPlaying");
-    if (isMusicPlaying === "true") {
-      myAudio.autoplay = true;
+    if (n !== undefined) {
+      currentImg = n;
     } else {
-      myAudio.autoplay = false;
+      currentImg = (currentImg + 1) % imgs.length;
     }
 
-    myAudio.onplay = function() {
-      localStorage.setItem("isMusicPlaying", "true");
-    }
+    imgs[currentImg].style.opacity = 1;
+    dots[currentImg].classList.add('active');
 
-    myAudio.onpause = function() {
-      localStorage.setItem("isMusicPlaying", "false");
-    }
-  </script> 
+    timer = setInterval(changeSlide, interval); // Mulai interval kembali setelah perubahan gambar
+  }
+
+  // Tambahkan event listener untuk menggeser ke gambar sebelumnya atau berikutnya saat gambar diklik
+  imgs.forEach((img, index) => {
+    img.addEventListener('click', function() {
+      changeSlide(index);
+    });
+  });
+
+  function calculateDays(today, eventDate) {
+    const difference = eventDate.getTime() - today.getTime();
+    return Math.ceil(difference / (1000 * 3600 * 24)); // Konversi ke hari
+  }
+
+  // Autoplay music
+  var myAudio = document.getElementById("myAudio");
+  var isMusicPlaying = localStorage.getItem("isMusicPlaying");
+  if (isMusicPlaying === "true") {
+    myAudio.autoplay = true;
+  } else {
+    myAudio.autoplay = false;
+  }
+
+  myAudio.onplay = function() {
+    localStorage.setItem("isMusicPlaying", "true");
+  }
+
+  myAudio.onpause = function() {
+    localStorage.setItem("isMusicPlaying", "false");
+  }
+</script>
  <script src="js/main.js"></script>
  </body>
 </html>
