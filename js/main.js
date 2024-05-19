@@ -213,6 +213,31 @@ xgallery_images = [
       url: "images/Gallery-43.jpg",
       prompt: "Deskripsi",
       date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-44.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-45.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-46.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-47.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-48.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
     }
 ];
   
