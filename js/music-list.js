@@ -571,9 +571,9 @@ let allMusic = [
 
     artist: "JKT48",
 
-    img: "music-13",
+    img: "music-47",
 
-    src: "music-47"
+    src: "music-13"
 
   }
   
