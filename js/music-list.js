@@ -419,6 +419,150 @@ let allMusic = [
 
     src: "music-34"
 
-}
+},
+
+  {
+
+    name: "Fearless",
+
+    artist: "Taylor Swift",
+
+    img: "music-35",
+
+    src: "music-35"
+
+    },
+
+  {
+
+    name: "SOS",
+
+    artist: "Seventeen",
+
+    img: "music-36",
+
+    src: "music-36"
+
+  },
+
+  {
+
+    name: "Together",
+
+    artist: "Seventeen",
+
+    img: "music-37",
+
+    src: "music-37"
+
+  },
+
+  {
+
+    name: "Kidult",
+
+    artist: "Seventeen",
+
+    img: "music-38",
+
+    src: "music-38"
+
+  },
+
+  {
+
+    name: "Wide Awake",
+
+    artist: "Katy Perry",
+
+    img: "music-39",
+
+    src: "music-39"
+
+  },
+
+  {
+
+    name: "The Lazy Song",
+
+    artist: "Bruno Mars",
+
+    img: "music-40",
+
+    src: "music-40"
+
+  },
+
+  {
+
+    name: "Someone To Stay",
+
+    artist: "Vancouver Sleep Clinic",
+
+    img: "music-41",
+
+    src: "music-41"
+
+  },
+
+  {
+
+    name: "Rasah Bali",
+
+    artist: "Lavaro,Ena Vika",
+
+    img: "music-42",
+
+    src: "music-42"
+
+  },
+
+  {
+
+    name: "Malampagi",
+
+    artist: "Saixse",
+
+    img: "music-43",
+
+    src: "music-43"
+
+  },
+
+  {
+
+    name: "Nemen",
+
+    artist: "Guyon Waton",
+
+    img: "music-44",
+
+    src: "music-44"
+
+  },
+
+  {
+
+    name: "Dumes",
+
+    artist: "OMWAWES,Guyon Waton",
+
+    img: "music-45",
+
+    src: "music-45"
+
+  },
+
+  {
+
+    name: "Jaga Selalu Hatimu",
+
+    artist: "Seventeen",
+
+    img: "music-46",
+
+    src: "music-46"
+
+  }
 
 ];
