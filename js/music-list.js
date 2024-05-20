@@ -451,7 +451,7 @@ let allMusic = [
 
     artist: "Seventeen",
 
-    img: "music-37-38",
+    img: "music-37",
 
     src: "music-37"
 
@@ -463,7 +463,7 @@ let allMusic = [
 
     artist: "Seventeen",
 
-    img: "music-37-38",
+    img: "music-38",
 
     src: "music-38"
 
@@ -573,7 +573,7 @@ let allMusic = [
 
     img: "music-47",
 
-    src: "music-13"
+    src: "music-47"
 
   }
   
