@@ -238,6 +238,46 @@ xgallery_images = [
       url: "images/Gallery-48.jpg",
       prompt: "Deskripsi",
       date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-49.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-50.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-51.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-52.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-53.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-54.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-55.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-56.jpg",
+      prompt: "Deskripsi",
+      date: "#Smpn2Tarumajaya"
     }
 ];
   
