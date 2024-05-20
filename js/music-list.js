@@ -451,7 +451,7 @@ let allMusic = [
 
     artist: "Seventeen",
 
-    img: "music-37",
+    img: "music-37-38",
 
     src: "music-37"
 
@@ -463,7 +463,7 @@ let allMusic = [
 
     artist: "Seventeen",
 
-    img: "music-38",
+    img: "music-37-38",
 
     src: "music-38"
 
@@ -563,6 +563,19 @@ let allMusic = [
 
     src: "music-46"
 
+  },
+
+  {
+
+    name: "Bersepeda Berdua",
+
+    artist: "JKT48",
+
+    img: "music-13",
+
+    src: "music-47"
+
   }
+  
 
 ];
