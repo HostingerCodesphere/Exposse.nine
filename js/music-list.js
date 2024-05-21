@@ -575,6 +575,42 @@ let allMusic = [
 
     src: "music-47"
 
+  },
+
+  {
+
+    name: "Dibuai",
+
+    artist: "The Paps",
+
+    img: "music-48",
+
+    src: "music-48"
+
+  },
+
+  {
+
+    name: "Titik Ketinggian",
+
+    artist: "BAXLAXBOY",
+
+    img: "music-49",
+
+    src: "music-49"
+
+  },
+
+  {
+
+    name: "Yang Terbaik Bagimu",
+
+    artist: "Donnie Sibarani,Aura",
+
+    img: "music-50",
+
+    src: "music-50"
+
   }
   
 
