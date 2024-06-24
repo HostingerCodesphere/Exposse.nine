@@ -258,6 +258,46 @@ xgallery_images = [
     {
       url: "images/Gallery-65.jpg",
       date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-66.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-67.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-68.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-69.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-70.jpg",
+      date: "#Smpn2Tarumajaya"
+},
+    {
+      url: "images/Gallery-71.jpg",
+      date: "#Smpn2Tarumajaya"
+},
+    {
+      url: "images/Gallery-72.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-73.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-74.jpg",
+      date: "#Smpn2Tarumajaya"
+    },
+    {
+      url: "images/Gallery-75.jpg",
+      date: "#Smpn2Tarumajaya"
     }
 ];
   
