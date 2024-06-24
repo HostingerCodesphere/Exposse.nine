@@ -611,6 +611,30 @@ let allMusic = [
 
     src: "music-50"
 
+  },
+
+  {
+
+    name: "Mimpi Yang Sempurna",
+
+    artist: "Michela Thea",
+
+    img: "music-51",
+
+    src: "music-51"
+
+  },
+
+  {
+
+    name: "Say Yes To Heaven",
+
+    artist: "Lana Del Rey",
+    
+    img: "music-52",
+
+    src: "music-52"
+
   }
   
 
